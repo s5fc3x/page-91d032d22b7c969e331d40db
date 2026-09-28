@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "447184bfdb538eb3f19e6d6d",
+  "owner": "s5fc3x",
+  "repo": "page-91d032d22b7c969e331d40db",
+  "title": "44F网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "91d032d22b7c969e331d40db",
+      "a": "44F网络",
+      "b": "",
+      "entity": "44F网络",
+      "brand": "44F网络",
+      "separator": "",
+      "path": "index.html",
+      "hash": "557c1fb33def5d3cb696f887f2c5caa387be44b3a7fdb72516fe73f3c31cd56c",
+      "content": {
+        "keyword1": "44F网络",
+        "keyword2": "",
+        "primary_entity": "44F网络",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "44F网络提供高速VPN加速器服务，支持客户端下载与官网访问，帮助用户畅享稳定、安全的网络体验。",
+          "AI_DESCRIPTION": "44F网络提供高速VPN加速器服务，支持客户端下载与官网访问，帮助用户畅享稳定、安全的网络体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{margin:0;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;background:#faf6f0;color:#2c2c2c;line-height:1.7}.container{max-width:1280px;margin:0 auto;padding:0 20px}.nav{display:flex;justify-content:space-between;align-items:center;padding:20px 0;background:rgba(255,255,255,0.95);backdrop-filter:saturate(180%) blur(10px);position:sticky;top:0;z-index:100}.nav a{color:#2c2c2c;text-decoration:none;font-weight:500}.nav a:hover{color:#f47a60}.hero{padding:60px 0 40px;text-align:center;background:linear-gradient(135deg,#faf6f0,#fff);border-radius:16px;margin-bottom:40px}.hero h1{font-size:clamp(2rem,5vw,3.5rem);color:#f47a60;margin:0 0 16px}.hero p{font-size:1.1rem;max-width:620px;margin:0 auto;color:#555}.main{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:40px;align-items:start}.col-left{flex:1}.col-right{flex:2}.steps{background:#fff;border-radius:16px;padding:32px;box-shadow:0 4px 20px rgba(0,0,0,0.04)}.steps h2{color:#f47a60;margin-top:0}.steps ol{padding-left:20px}.steps li{margin-bottom:14px;font-size:1.05rem}.plans{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:24px;margin:40px 0}.plan-card{background:#fff;border-radius:16px;padding:28px 24px;box-shadow:0 4px 20px rgba(0,0,0,0.04);transition:transform .2s}.plan-card:hover{transform:translateY(-6px)}.plan-card h3{font-size:1.35rem;color:#2c2c2c;margin:0 0 12px}.plan-card .price{font-size:2rem;font-weight:700;color:#f47a60;margin:12px 0}.plan-card ul{list-style:none;padding:0;margin:20px 0 0}.plan-card li{margin:10px 0 10px 22px;position:relative}.plan-card li:before{content:\"✓\";position:absolute;left:0;color:#f47a60}.faq{margin:60px 0 40px}.faq h2{color:#f47a60;margin-bottom:24px}.faq details{background:#fff;margin-bottom:12px;border-radius:12px;overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,0.03)}.faq summary{padding:18px 24px;font-weight:600;font-size:1.1rem;cursor:pointer;display:flex;justify-content:space-between;align-items:center}.faq summary::-webkit-details-marker{display:none}.faq summary:hover{}.faq .faq-answer{padding:0 24px 24px;display:none}.faq[open] .faq-answer{display:block}.footer{background:#f47a60;color:#fff;text-align:center;padding:30px 0;margin-top:80px;border-radius:16px 16px 0 0}.footer a{color:#fff;text-decoration:none}.footer a:hover{text-decoration:underline}</style><header class=\"nav\"><nav class=\"container\"><a href=\"#\">44F网络</a><a href=\"#\">首页</a><a href=\"#\">套餐</a><a href=\"#\">配置</a><a href=\"#faq\">FAQ</a><a href=\"#\">下载</a></nav></header><main class=\"container\"><section class=\"hero\"><h1>44F网络</h1><p>提供稳定高速的VPN加速服务，让您畅享全球内容与安全网络连接。</p></section><div class=\"main\"><div class=\"col-left\"><h2>品牌简介</h2><p>44F网络专注于网络加速与安全代理，助力用户突破地域限制，获得更快更稳定的连接体验。适合个人用户、企业团队及内容创作者。</p><h2>使用场景</h2><p>日常上网浏览、游戏加速、海外购物、流媒体观看及远程办公等场景均可享受高效网络支持。</p></div><div class=\"col-right\"><h2>配置流程</h2><div class=\"steps\"><ol><li>访问官网或平台下载官方客户端</li><li>完成账号注册与身份验证</li><li>选择适合的套餐与线路节点</li><li>一键配置并连接服务器</li><li>完成加速设置，即可享受高速服务</li></ol></div></div></div><section class=\"plans\">{{PLANS_HTML}}</section><section class=\"faq\" id=\"faq\"><h2>常见问题</h2><details><summary>44F网络是什么？<span>›</span></summary><div class=\"faq-answer\"><p>44F网络是一家专注于提供稳定、安全的高速VPN加速服务的平台，帮助用户获得更快的网络连接和更优化的访问体验。</p></div></details><details><summary>如何选择套餐？<span>›</span></summary><div class=\"faq-answer\"><p>可根据流量需求、设备数量和使用场景选择基础版、旗舰版或团队版套餐，优先推荐旗舰版以获得最佳加速效果。</p></div></details><details><summary>支持哪些设备？<span>›</span></summary><div class=\"faq-answer\"><p>支持多台设备同时在线连接，具体以各套餐提供的设备数量为准。</p></div></details><details><summary>配置VPN加速器需要多长时间？<span>›</span></summary><div class=\"faq-answer\"><p>通常几分钟即可完成客户端安装、账号登录及节点连接。</p></div></details><details><summary>年付是否更划算？<span>›</span></summary><div class=\"faq-answer\"><p>年付可享更优惠的价格，详情请查看各套餐页面的年付选项。</p></div></details><details><summary>如何获取技术支持？<span>›</span></summary><div class=\"faq-answer\"><p>提供7x24在线工单支持，优先处理企业及旗舰版用户咨询。</p></div></details></section><footer class=\"footer\">{{CLIENTS_HTML}}</footer></main>",
+          "hash": "c22b0f485b649d17963a0286d57830f533550a4f09f93f89016ac6c40b52097d",
+          "seo": {
+            "title": "44F网络 - VPN加速器 | 客户端下载",
+            "keywords": "44F网络, VPN加速器, 客户端下载, 官网, 网络加速",
+            "description": "44F网络提供高速VPN加速器服务，支持客户端下载与官网访问，帮助用户畅享稳定、安全的网络体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "gzmkc.cn",
+    "host": "b.gzmkc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "gzmkc.cn",
+      "url": "https://gzmkc.cn/",
+      "label": "矢矧网络",
+      "apex": "gzmkc.cn",
+      "kind": null,
+      "identity": "tiaenzvpvn/page-37010a6d9d13039ac3bd5ba5"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "0d9f0452d3da03e19b82b437efacfc68a3e69c8762cc6e07d0e3ac7a6cd2ba95",
+    "sitemap.xml": "2c96df1d84fa808696391f8564dcf5a7f64832d9d7820209afe80b958088331f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f98906a5d3ce4ddea122b5bdb5b57d6dcd6845aaba402bcad4a2a973a2734a20",
+    "robots.txt": "83c33676ad9a56e640c887fa95b2deb4fe8ffeb0a3832d140783e2bcfaabe0e5",
+    "bee386b81b8d61573b742d126959d97d.txt": "9ff08a1ba287f625d44f5e0b5b8bc6b0fb9aaaf1c9cadf32f4ea00f4187baf2d"
+  },
+  "revision": "6dce891aaa84e0c55fc0163445eb0c1d87c1efd853094810e9d15d54216f1382"
+}
